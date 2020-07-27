@@ -364,7 +364,7 @@ Let's check out the raw HTML all these helper methods generate for us:
 ```
 
 Run the spec tests one last time to verify that everything is still passing. You
-now know how to build a Rails form from scratch and refactor it using Rails form
+now know how to build a Rails form rfrom scratch and refactor it using Rails form
 helper methods. Nice work!
 
 [helpers]: https://learn.co/lessons/rails-url-helpers-readme
