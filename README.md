@@ -274,6 +274,7 @@ least-elegant Rails forms that has ever existed, so let's do some refactoring.
 
 ## Using form helpers
 
+
 `ActionView`, a sub-gem of Rails, provides a number of helper methods to assist
 with streamlining view template code. Specifically, we can use `ActionView`
 methods to improve our form! Let's start by integrating a Rails `form_tag`
